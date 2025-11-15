@@ -5,8 +5,8 @@ Bem-vindo(a) ao meu perfil no GitHub!
 ## 👨‍💻 Sobre Mim
 
 * 🎓 Cursando **Sistemas da Informação** na Faculdade da Saúde e Ecologia Humana (FASEH).
-* 📍 Localizado em Minas Gerais, **Brasil** 🇧🇷.
-* 🎯 Buscando ativamente minha **primeira oportunidade profissional** na área de TI para aplicar meus conhecimentos e aprender com uma equipe.
+* 📍 Minas Gerais, **Brasil** 🇧🇷.
+* 🎯 Buscando minha **primeira oportunidade profissional** na área de TI para aplicar meus conhecimentos e aprender com uma equipe.
 * 🌱 Sempre aprendendo e construindo novos projetos.
 
 ## 🌱 Meu Foco de Estudo Atual
